@@ -15,3 +15,4 @@ export interface FullMovie extends Movie{
     originalTitle:string;
     productionCompanies:string[];
 }
+
